@@ -9,11 +9,11 @@ A comprehensive recommendation system with three AI models and PCA vs SVD compar
 ## 📁 Project Structure
 
 ```
-├── app.py                    # Main Streamlit application
-├── recommendation.ipynb      # Jupyter notebook with analysis
-├── requirements.txt          # Python dependencies
-├── README.md                 # Documentation
-└── data/                     # Data files (not in repo)
+├── app.py                                                  # Main Streamlit application
+├── product-recommendation-system-for-e-commerce.ipynb      # Jupyter notebook with analysis
+├── requirements.txt                                        # Python dependencies
+├── README.md                                               # Documentation
+└── data/                                                   # Data files (not in repo)
     ├── product_descriptions.csv
     └── ratings_Beauty.csv
 ```
