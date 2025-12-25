@@ -63,7 +63,7 @@ The system automatically handles these column names:
 - **Ratings**: `user_id`, `product_id`, `rating`
 
 ## 📊 Notebook Analysis
-The `recommendation.ipynb` notebook contains:
+The `product-recommendation-system-for-e-commerce.ipynb` notebook contains:
 - Data exploration and preprocessing
 - Model development and testing
 - Performance analysis
